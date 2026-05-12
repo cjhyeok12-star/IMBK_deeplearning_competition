@@ -16,6 +16,9 @@
 
 torch, torch.nn, TabTransformer, pandas, numpy, train_test_split, StandardScaler, LabelEncoder, OrdinalEncoder, compute_class_weight, accuracy_score, TensorDataset, DataLoader, copy, warnings을 사용했습니다.
 
+## 데이터 출처:
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+
 ## 데이터 전처리:
 
 <img width="1023" height="574" alt="image" src="https://github.com/user-attachments/assets/810d454b-9b36-4d56-b41e-c98955e0050b" />
