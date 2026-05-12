@@ -48,6 +48,6 @@ EDA를 통해 데이터가 다중 분류이고 클래스 간에 불균형이 존
 <img width="606" height="224" alt="image" src="https://github.com/user-attachments/assets/32f6e218-bf39-423e-9384-465ad05ed6cd" />
 
 
-30번 반복 학습 결과, 현재 출력된 validation score는 0.77로 목표인 0.75이상을 충족하여 적절한 score를 뽑았다고 볼 수 있습니다.
+30번 반복 학습 결과, 현재 출력된 validation score는 0.79로 목표인 0.75이상을 충족하여 적절한 score를 뽑았다고 볼 수 있습니다.
 
 
